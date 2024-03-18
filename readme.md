@@ -7,7 +7,7 @@ The main template is in the `index.html` file. You will need a code editor like 
 
 You can view an example of this template here:
 
-[https://ucbsoj.github.io/multimedia2021template/](https://ucbsoj.github.io/multimedia2021template/)
+[https://ucbsoj.github.io/multimedia2021template/](https://Najimrah.github.io/multimedia2021template/)
 
 
 
